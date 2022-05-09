@@ -1,0 +1,23 @@
+/* My Awesome Styles */
+
+/* Diagnostic Styling 
+  * Change Background Color
+  * Outline Elements
+*/
+
+/* * {
+    outline: 1px dotted black;
+}
+ */
+/* Doodle Stage */
+#stage {
+ background: #FFF3EB; 
+  height: 300px;
+  width: 600px;
+}
+
+body {
+  align-items: center;
+  justify-content: center;
+}
+
